@@ -1,0 +1,18 @@
+{
+  "name": "advanced_backend",
+  "version": "1.0.0",
+  "description": "backend application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS"
+  ],
+  "author": "Mirgulom Mirsolihov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
